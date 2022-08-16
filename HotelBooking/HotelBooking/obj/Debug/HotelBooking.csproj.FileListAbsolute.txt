@@ -1,0 +1,43 @@
+C:\Users\asaba\source\repos\HotelBooking\HotelBooking\bin\Debug\HotelBooking.exe.config
+C:\Users\asaba\source\repos\HotelBooking\HotelBooking\bin\Debug\HotelBooking.exe
+C:\Users\asaba\source\repos\HotelBooking\HotelBooking\bin\Debug\HotelBooking.pdb
+C:\Users\asaba\source\repos\HotelBooking\HotelBooking\obj\Debug\HotelBooking.csproj.AssemblyReference.cache
+C:\Users\asaba\source\repos\HotelBooking\HotelBooking\obj\Debug\HotelBooking.Properties.Resources.resources
+C:\Users\asaba\source\repos\HotelBooking\HotelBooking\obj\Debug\HotelBooking.csproj.GenerateResource.cache
+C:\Users\asaba\source\repos\HotelBooking\HotelBooking\obj\Debug\HotelBooking.csproj.CoreCompileInputs.cache
+C:\Users\asaba\source\repos\HotelBooking\HotelBooking\obj\Debug\HotelBooking.exe
+C:\Users\asaba\source\repos\HotelBooking\HotelBooking\obj\Debug\HotelBooking.pdb
+C:\Users\asaba\source\repos\HotelBooking\HotelBooking\obj\Debug\HotelBooking.MainForm.resources
+C:\Users\asaba\source\repos\HotelBooking\HotelBooking\obj\Debug\HotelBooking.EditForm.resources
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\obj\Debug\HotelBooking.csproj.AssemblyReference.cache
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\obj\Debug\HotelBooking.EditForm.resources
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\obj\Debug\HotelBooking.MainForm.resources
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\obj\Debug\HotelBooking.Properties.Resources.resources
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\obj\Debug\HotelBooking.csproj.GenerateResource.cache
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\obj\Debug\HotelBooking.csproj.CoreCompileInputs.cache
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\obj\Debug\HotelBooking.exe
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\obj\Debug\HotelBooking.pdb
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\HotelBooking.exe.config
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\HotelBooking.exe
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\HotelBooking.pdb
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\obj\Debug\HotelBooking.csproj.CopyComplete
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\System.Buffers.dll
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\System.Memory.dll
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\System.Text.Json.dll
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\System.ValueTuple.dll
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\System.Buffers.xml
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\System.Memory.xml
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\System.Text.Json.xml
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\asaba\source\repos\HotelBooking - Copy\HotelBooking\bin\Debug\System.ValueTuple.xml

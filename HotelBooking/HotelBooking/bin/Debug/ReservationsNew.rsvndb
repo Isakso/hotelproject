@@ -1,0 +1,39 @@
+{
+  "ReservationList": [
+    {
+      "ContactData": {
+        "FirstName": "xxx",
+        "LastName": "xx",
+        "Address": {
+          "Country": 3,
+          "City": "xxx",
+          "ZipCode": "",
+          "Street1": "dddd",
+          "Street2": "dddd",
+          "AddressLine1": "xxx",
+          "AddressLine2": "xxx"
+        },
+        "HomePhone": "678900000",
+        "WorkPhone": "078789000",
+        "HomeEmail": "asaba@gmial.com",
+        "WorkEmail": "User@yahoo.com"
+      },
+      "NumberOfChildren": 0,
+      "NumberOfAdults": 1,
+      "NumberOfNights": 1,
+      "Card": {
+        "CardType": 0,
+        "Validity": "2345",
+        "CardNo": 4567456745674567,
+        "CVC": "123",
+        "AccountName": "xxx xx"
+      },
+      "CheckInDate": "2022-06-20T00:00:00+02:00",
+      "CheckOutDate": "2022-06-21T00:00:00+02:00",
+      "Room": {
+        "RmType": 0,
+        "CostPerNight": 800
+      }
+    }
+  ]
+}

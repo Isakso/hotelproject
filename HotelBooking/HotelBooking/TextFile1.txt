@@ -1,0 +1,37 @@
+﻿       // deleting while looping increasing idx (remove b(1) and d(3)) of a list
+            // idx 
+            // 0    a             0    a         0    a          
+            // 1    b  -                    
+            // 2    c      ==\    1    c  ==\    1    c 
+            // 3    d  -   ==/    2    d  ==/    2    d     
+            // 4    e             3    e                
+
+       // deleting while looping decreasing idx (remove b(3) and d(1)) of a list
+            // idx 
+            // 0    e             0    e         0    e          
+            // 1    d  -          1    d      
+            // 2    c      ==\    2    c  ==\    1    c 
+            // 3    b  -   ==/            ==/             
+            // 4    a             3    a         2    a
+
+            ON selecting one item, Show the reservation on the left as a readonly.
+
+    ///   Receipt
+       .FullName
+       .City&Country
+       .PrivateEmail
+       .PrivatePhoneNo
+       .Room
+       .Checkin
+       .CheckOut
+       .CardNo(last 4 digits)
+       .TotalNoOfNights
+       .TotalNoOfAdults
+       .TotalNoOfChildren
+       .TotalCost
+       
+    ///
+
+    FName, num nights, adults, children...
+1.  "ff,gg", 2, 4, 5
+2.  "ff,gg", 2, 4, 5
